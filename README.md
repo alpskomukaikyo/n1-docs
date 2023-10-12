@@ -33,7 +33,6 @@ stop
 ### インストール方法やチートシート
 [plantumlインストール方法](https://qiita.com/couzie/items/9dedb834c5aff09ea7b2)
 
-<br>
 
 [plantumlチートシート](https://qiita.com/ogomr/items/0b5c4de7f38fd1482a48)
 
