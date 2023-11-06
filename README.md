@@ -31,6 +31,9 @@ excel
 ```
 
 ## 購入理由
+* 購入対象は[Amazon echo dot](https://www.amazon.co.jp/Echo-Dot-%E3%82%A8%E3%82%B3%E3%83%BC%E3%83%89%E3%83%83%E3%83%88-%E7%AC%AC5%E4%B8%96%E4%BB%A3-Alexa-%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC%E6%90%AD%E8%BC%89-%E9%AE%AE%E3%82%84%E3%81%8B%E3%81%AA%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89-%E3%83%81%E3%83%A3%E3%82%B3%E3%83%BC%E3%83%AB/dp/B09B8SZLLG/ref=sr_1_6?keywords=echo&qid=1697125311&sr=8-6)
+<br>
+
 * amazon echoの理由
   * goole nestは領収書が出るか不明。経費で落ちるかも不明。
   * homepadと比べて安価
